@@ -1,0 +1,12 @@
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\bin\Debug\net5.0\Repositorio.deps.json
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\bin\Debug\net5.0\Repositorio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\bin\Debug\net5.0\ref\Repositorio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\bin\Debug\net5.0\Repositorio.pdb
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\obj\Debug\net5.0\Repositorio.csproj.AssemblyReference.cache
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\obj\Debug\net5.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\obj\Debug\net5.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\obj\Debug\net5.0\Repositorio.AssemblyInfo.cs
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\obj\Debug\net5.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\obj\Debug\net5.0\Repositorio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\obj\Debug\net5.0\ref\Repositorio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Repositorio\obj\Debug\net5.0\Repositorio.pdb

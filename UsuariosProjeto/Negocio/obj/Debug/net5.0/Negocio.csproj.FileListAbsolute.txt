@@ -1,0 +1,17 @@
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\bin\Debug\net5.0\Negocio.deps.json
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\bin\Debug\net5.0\Negocio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\bin\Debug\net5.0\ref\Negocio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\bin\Debug\net5.0\Negocio.pdb
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\bin\Debug\net5.0\Repositorio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\bin\Debug\net5.0\Utils.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\bin\Debug\net5.0\Repositorio.pdb
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\bin\Debug\net5.0\Utils.pdb
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\Negocio.AssemblyInfo.cs
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\Negocio.csproj.CopyComplete
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\Negocio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\ref\Negocio.dll
+C:\Users\cristina.priester\AutenticacaoLogin_Backend\AutenticacaoLogin_Backend\UsuariosProjeto\Negocio\obj\Debug\net5.0\Negocio.pdb
